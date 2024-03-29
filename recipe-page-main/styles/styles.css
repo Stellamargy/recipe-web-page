@@ -1,0 +1,27 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+    padding:10px 0 10px 10px;
+}
+.wrapper{
+    background-color: #F3E5D8;
+    padding:120px 250px 20px  350px;
+
+}
+.recipe-container{
+    width:720px;
+    background-color: white;
+    padding:30px;
+    border-radius: 30px;
+   
+}
+.recipe-image{
+    width:100%;
+    height: auto;
+    border-radius: 25px;
+    padding: 10px;
+}
