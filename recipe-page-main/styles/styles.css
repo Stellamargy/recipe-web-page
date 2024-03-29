@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Young+Serif&display=swap');
 *{
     padding:0;
     margin:0;
@@ -5,7 +7,8 @@
 }
 body{
     background-color: white;
-    padding:10px 0 10px 10px;
+    padding:8px 0 8px 8px;
+    font-size: ;
 }
 .wrapper{
     background-color: #F3E5D8;
